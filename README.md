@@ -96,8 +96,3 @@ Arduino Controller
 - Cloud-based incident logging
 
 ---
-
-## Author
-
-**Sreyas T**  
-B.Tech Artificial Intelligence and Data Science
